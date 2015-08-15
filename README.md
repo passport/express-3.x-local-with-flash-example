@@ -11,8 +11,8 @@ To install this example on your computer, clone the repository and install
 dependencies.
 
 ```bash
-$ git clone git@github.com:passport/express-3.x-local-example.git
-$ cd express-3.x-local-example
+$ git clone git@github.com:passport/express-3.x-local-with-flash-example.git
+$ cd express-3.x-local-with-flash-example
 $ npm install
 ```
 
